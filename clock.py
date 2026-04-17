@@ -7,5 +7,6 @@ while True:
     else:
         tz = time.tzname[0]
     full_time = current_time + " " + tz
+    print("python clock, made by bitetheapple")
     print('\rCurrent Time: ' + full_time, end='', flush=True)
     time.sleep(1)
