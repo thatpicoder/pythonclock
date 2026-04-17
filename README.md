@@ -1,6 +1,6 @@
 # pythonclock
-simple clock made in python for windows
-runs in cmd
+- simple clock made in python for windows
+- runs in cmd
 
 # how to use:
 
