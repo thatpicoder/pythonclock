@@ -8,7 +8,7 @@
 3. open the exe
 
  
-# how to use (linux):
+# how to use (linux and mac):
 1. download clock.py
 2. install python 3 from https://python.org/downloads if you haven't
 3. navigate to the folder where the .py file is in terminal (if it's in downloads, run "cd ~/Downloads")
